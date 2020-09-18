@@ -9,6 +9,7 @@
   "author": "mike98",
   "license": "ISC",
   "dependencies": {
+    "babel-polyfill": "^6.26.0",
     "babel-watch": "^7.0.0",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
